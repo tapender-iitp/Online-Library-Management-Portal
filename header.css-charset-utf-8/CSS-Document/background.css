@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+.background
+{
+	background-color:#CCB647;
+}
+.background .contents
+{
+	background-color:#CCB647;
+	margin-top:100px;	
+}
+
+#footer
+{
+	margin-top:300px;
+	background-image:url(red-wave-background.jpg);
+	background-position:left;
+	font:25;
+	font-family:"Comic Sans MS", cursive;
+	color:#000;
+	text-align:center;
+		
+}
