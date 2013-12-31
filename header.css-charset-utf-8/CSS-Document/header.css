@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.header
+{
+	text-align:center;
+	margin-left:100px;
+	color:white;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:32px;
+}
